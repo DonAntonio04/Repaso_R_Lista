@@ -26,7 +26,7 @@ namespace Examen_Listas
             string resultadoBusqueda = miLista.Buscar(nombreABuscar);
             Console.WriteLine(resultadoBusqueda);
 
-            Console.WriteLine("\nLista ordenada por edad:");
+            Console.WriteLine("Lista ordenada por edad:");
             miLista.ImprimirListaOrdenadaPorEdad();
 
          
